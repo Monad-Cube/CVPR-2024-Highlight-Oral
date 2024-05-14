@@ -5,6 +5,10 @@
 - Paper : https://arxiv.org/abs/2403.00712
 - Description : Method Theory
 
+**PaSCo: Urban 3D Panoptic Scene Completion with Uncertainty Awareness**
+- Homepage : https://astra-vision.github.io/PaSCo/
+- Paper : https://arxiv.org/abs/2312.02158
+- Description : Method
 
 # CVPR-2024-Highlight
 - [3DGS](#3DGS)
@@ -12,6 +16,7 @@
 - [Digital Human](#DH)
 - [Video](#Video)
 - [Image](#Image)
+- [Reconstruction](#Re)
 - [SLAM](#SLAM)
 - [Machine Learning](#ML)
 
@@ -25,7 +30,21 @@
 - Paper : https://haithemturki.com/hybrid-nerf/resources/paper.pdf
 - Description : Presentation
 
+**HashPoint: Accelerated Point Searching and Sampling for Neural Rendering**
+- Homepage : https://jiahao-ma.github.io/hashpoint/
+- Paper : https://arxiv.org/abs/2404.14044v1
+- Description : Method Theory
 
+# 3D Generation
+**RichDreamer: A Generalizable Normal-Depth Diffusion Model for Detail Richness in Text-to-3D**
+- Homepage : https://aigc3d.github.io/richdreamer/
+- Paper : https://arxiv.org/abs/2311.16918
+- Description : Method
+
+**MeshGPT: Generating Triangle Meshes with Decoder-Only Transformers**
+- Homepage : https://nihalsid.github.io/mesh-gpt/
+- Paper : https://arxiv.org/abs/2311.15475
+- Description : Method, Mesh Generation 
 
 <a name="DH"></a>
 # Digital Human
@@ -35,7 +54,6 @@
 - Description : Dataset
 
 **3D Human Pose Perception from Egocentric Stereo Videos**
-
 - Homepage : https://4dqv.mpi-inf.mpg.de/UnrealEgo2/
 - Paper : https://arxiv.org/abs/2401.00889
 - Description : Benchmark Dataset
@@ -64,6 +82,14 @@
 - Homepage : https://chenshuang-zhang.github.io/imagenet_d/
 - Paper : https://arxiv.org/abs/2403.18775
 - Description : Benchmark Dataset
+
+<a name="Re"></a>
+# Reconstruction
+**IPoD: Implicit Field Learning with Point Diffusion for Generalizable 3D Object Reconstruction from Single RGB-D Images**
+- Homepage : https://yushuang-wu.github.io/IPoD/
+- Paper : https://arxiv.org/abs/2404.00269
+- Description : Method
+
 
 <a name="SLAM"></a>
 
