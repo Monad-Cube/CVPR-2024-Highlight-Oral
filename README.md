@@ -22,6 +22,15 @@
 - Paper : https://haithemturki.com/hybrid-nerf/resources/paper.pdf
 - Description : Presentation
 
+
+
+<a name="DH"></a>
+# Digital Human
+**A 4D Dataset ofReal-World Human Clothing With Semantic Annotations**
+- Homepage : https://eth-ait.github.io/4d-dress/
+- Paper : https://arxiv.org/abs/2404.18630
+- Description : Dataset
+
 **3D Human Pose Perception from Egocentric Stereo Videos**
 
 - Homepage : https://4dqv.mpi-inf.mpg.de/UnrealEgo2/
@@ -32,13 +41,6 @@
 - Homepage : https://zju3dv.github.io/relightable_avatar/
 - Paper : https://arxiv.org/abs/2308.07903
 - Description : Method
-
-<a name="DH"></a>
-# Digital Human
-**A 4D Dataset ofReal-World Human Clothing With Semantic Annotations**
-- Homepage : https://eth-ait.github.io/4d-dress/
-- Paper : https://arxiv.org/abs/2404.18630
-- Description : Dataset
 
 <a name="V"></a>
 
