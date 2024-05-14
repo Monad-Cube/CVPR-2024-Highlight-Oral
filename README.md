@@ -27,6 +27,11 @@
 - Paper : https://arxiv.org/abs/2401.00889
 - Description : Benchmark Dataset
 
+**Relightable and Animatable Neural Avatar from Sparse-View Video**
+- Homepage : https://zju3dv.github.io/relightable_avatar/
+- Paper : https://arxiv.org/abs/2308.07903
+- Description : Method
+
 <a name="DH"></a>
 # Digital Human
 **A 4D Dataset ofReal-World Human Clothing With Semantic Annotations**
