@@ -1,23 +1,31 @@
-# CVPR-2024-Highlight
+# CVPR-2024-Oral
+
+**Rethinking Inductive Biases for Surface Normal Estimation**
+- Homepage: https://baegwangbin.github.io/DSINE/
+- Paper: https://arxiv.org/abs/2403.00712
+- Description: Method Theory
+
+
+
+# CVPR-2024-Highlight-Oral
 - [3DGS](#3DGS)
 - [3D Generation](#3DG)
 - [Digital Human](#DH)
 <a name="3DGS"></a>
 
-# 3DGS(Gaussian Splatting)
+# 3D Presentation(GS, NeRF)
 
-**DNGaussian: Optimizing Sparse-View 3D Gaussian Radiance Fields with Global-Local Depth Normalization**
+**HybridNeRF: Efficient Neural Rendering via Adaptive Volumetric Surfaces**
 
-- Homepage: https://fictionarry.github.io/DNGaussian/
-- Paper: https://arxiv.org/abs/2403.06912
-- Code: https://github.com/Fictionarry/DNGaussian
-
+- Homepage: https://haithemturki.com/hybrid-nerf/
+- Paper: https://haithemturki.com/hybrid-nerf/resources/paper.pdf
+- Description: Presentation
 
 **3D Human Pose Perception from Egocentric Stereo Videos**
 
 - Homepage: https://4dqv.mpi-inf.mpg.de/UnrealEgo2/
 - Paper: https://arxiv.org/abs/2401.00889
-- Description: Benchmark
+- Description: Benchmark Dataset
 
 <a name="DH"></a>
 # Digital Human
