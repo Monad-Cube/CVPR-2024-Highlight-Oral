@@ -53,7 +53,6 @@
 - Paper : https://arxiv.org/abs/2404.04319
 - Description : Method
 
-# Video Super-Resolution
 **Upscale-A-Video: Temporal-Consistent Diffusion Model for Real-World Video Super-Resolution**
 - Homepage : https://shangchenzhou.com/projects/upscale-a-video/
 - Paper : https://arxiv.org/abs/2312.06640
