@@ -7,7 +7,7 @@
 
 
 
-# CVPR-2024-Highlight-Oral
+# CVPR-2024-Highlight
 - [3DGS](#3DGS)
 - [3D Generation](#3DG)
 - [Digital Human](#DH)
@@ -34,5 +34,9 @@
 - Paper : https://arxiv.org/abs/2404.18630
 - Description : Dataset
 
-
+# Feature Matching
+**Efficient LoFTR: Semi-Dense Local Feature Matching with Sparse-Like Speed**
+- Homepage : https://zju3dv.github.io/efficientloftr/
+- Paper : https://zju3dv.github.io/efficientloftr/files/EfficientLoFTR.pdf
+- Description : Method
 
