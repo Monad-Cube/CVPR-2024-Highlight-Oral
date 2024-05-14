@@ -11,6 +11,7 @@
 - [3DGS](#3DGS)
 - [3D Generation](#3DG)
 - [Digital Human](#DH)
+- [Video](#V)
 <a name="3DGS"></a>
 
 # 3D Presentation(GS, NeRF)
@@ -39,9 +40,20 @@
 - Paper : https://arxiv.org/abs/2404.18630
 - Description : Dataset
 
+<a name="V"></a>
+
+# Video Understanding
+**SpatialTracker: Tracking Any 2D Pixels in 3D Space**
+- Homepage : https://henry123-boy.github.io/SpaTracker/
+- Paper : https://arxiv.org/abs/2404.04319
+- Description : Method
+
+
 # Feature Matching
 **Efficient LoFTR: Semi-Dense Local Feature Matching with Sparse-Like Speed**
 - Homepage : https://zju3dv.github.io/efficientloftr/
 - Paper : https://zju3dv.github.io/efficientloftr/files/EfficientLoFTR.pdf
 - Description : Method
+
+
 
