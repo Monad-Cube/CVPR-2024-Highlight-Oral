@@ -14,6 +14,7 @@ Geometry
 - [3DGS](#3DGS)
 - [3D Generation](#3DG)
 - [Digital Human](#DH)
+- [Human-Scene](#HS)
 - [Video](#Video)
 - [Image](#Image)
 - [Reconstruction](#Re)
@@ -63,6 +64,14 @@ Geometry
 - Homepage : https://zju3dv.github.io/relightable_avatar/
 - Paper : https://arxiv.org/abs/2308.07903
 - Description : Method
+
+<a name="HS"></a>
+# Human-Scene
+**Scaling Up Dynamic Human-Scene Interaction Modeling**
+- Homepage : https://jnnan.github.io/trumans/
+- Paper : https://arxiv.org/abs/2403.08629
+- Description : Dataset
+
 
 <a name="Video"></a>
 
