@@ -44,7 +44,7 @@
 
 <a name="3DGS"></a>
 
-# 3D Presentation(GS, NeRF)
+## 3D Presentation(GS, NeRF)
 
 **HybridNeRF: Efficient Neural Rendering via Adaptive Volumetric Surfaces**
 
@@ -57,7 +57,7 @@
 - Paper : https://arxiv.org/abs/2404.14044v1
 - Description : Method Theory
 
-# 3D Generation
+## 3D Generation
 **RichDreamer: A Generalizable Normal-Depth Diffusion Model for Detail Richness in Text-to-3D**
 - Homepage : https://aigc3d.github.io/richdreamer/
 - Paper : https://arxiv.org/abs/2311.16918
@@ -69,7 +69,7 @@
 - Description : Method, Mesh Generation 
 
 <a name="DH"></a>
-# Digital Human
+## Digital Human
 **A 4D Dataset ofReal-World Human Clothing With Semantic Annotations**
 - Homepage : https://eth-ait.github.io/4d-dress/
 - Paper : https://arxiv.org/abs/2404.18630
@@ -86,7 +86,7 @@
 - Description : Method
 
 <a name="HS"></a>
-# Human-Scene
+## Human-Scene
 **Scaling Up Dynamic Human-Scene Interaction Modeling**
 - Homepage : https://jnnan.github.io/trumans/
 - Paper : https://arxiv.org/abs/2403.08629
@@ -98,7 +98,7 @@
 - Description : 
 
 <a name="MM"></a>
-# Multi-Modal
+## Multi-Modal
 **OPERA: Alleviating Hallucination in Multi-Modal Large Language Models via Over-Trust Penalty and Retrospection-Allocation**
 - Homepage : https://github.com/shikiw/OPERA
 - Paper : https://arxiv.org/abs/2311.17911
@@ -106,7 +106,7 @@
 
 <a name="Video"></a>
 
-# Video Understanding
+## Video Understanding
 **SpatialTracker: Tracking Any 2D Pixels in 3D Space**
 - Homepage : https://henry123-boy.github.io/SpaTracker/
 - Paper : https://arxiv.org/abs/2404.04319
@@ -123,14 +123,14 @@
 - Description : 
 
 <a name="Image"></a>
-# Image
+## Image
 **ImageNet-D: Benchmarking Neural Network Robustness on Diffusion Synthetic Object**
 - Homepage : https://chenshuang-zhang.github.io/imagenet_d/
 - Paper : https://arxiv.org/abs/2403.18775
 - Description : Benchmark Dataset
 
 <a name="Re"></a>
-# Reconstruction
+## Reconstruction
 **IPoD: Implicit Field Learning with Point Diffusion for Generalizable 3D Object Reconstruction from Single RGB-D Images**
 - Homepage : https://yushuang-wu.github.io/IPoD/
 - Paper : https://arxiv.org/abs/2404.00269
@@ -142,7 +142,7 @@
 - Description : Method
 
 <a name="EAI"></a>
-# Embodied AI
+## Embodied AI
 **PhyScene: Physically Interactable 3D Scene Synthesis for Embodied AI**
 - Homepage : https://physcene.github.io/
 - Paper : https://arxiv.org/abs/2404.09465.pdf
@@ -150,7 +150,7 @@
 
 <a name="SLAM"></a>
 
-# SLAM
+## SLAM
 **Gaussian Splatting SLAM**
 - Homepage : https://rmurai.co.uk/projects/GaussianSplattingSLAM/
 - Paper : https://arxiv.org/abs/2312.06741
