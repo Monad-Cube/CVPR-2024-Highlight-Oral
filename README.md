@@ -1,5 +1,5 @@
 # CVPR-2024-Oral
-
+Geometry
 **Rethinking Inductive Biases for Surface Normal Estimation**
 - Homepage : https://baegwangbin.github.io/DSINE/
 - Paper : https://arxiv.org/abs/2403.00712
@@ -17,6 +17,7 @@
 - [Video](#Video)
 - [Image](#Image)
 - [Reconstruction](#Re)
+- [Embodied AI](#EAI)
 - [SLAM](#SLAM)
 - [Machine Learning](#ML)
 
@@ -90,6 +91,12 @@
 - Paper : https://arxiv.org/abs/2404.00269
 - Description : Method
 
+<a name="EAI"></a>
+# Embodied AI
+**PhyScene: Physically Interactable 3D Scene Synthesis for Embodied AI**
+- Homepage : https://physcene.github.io/
+- Paper : https://arxiv.org/abs/2404.09465.pdf
+- Description : Method
 
 <a name="SLAM"></a>
 
