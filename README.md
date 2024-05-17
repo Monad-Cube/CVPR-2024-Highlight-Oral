@@ -31,7 +31,9 @@
 
 # CVPR-2024-Highlight
 - [3DGS](#3DGS)
+- [Diffusion](#D)
 - [3D Generation](#3DG)
+- [2D Generation](#2DG)
 - [Digital Human](#DH)
 - [Human-Scene](#HS)
 - [Multi-Modal](#MM)
@@ -40,11 +42,11 @@
 - [Reconstruction](#Re)
 - [Embodied AI](#EAI)
 - [Pose Estimation](#PE)
+- [Autonomous Driving](#AD)
 - [SLAM](#SLAM)
 - [Machine Learning](#ML)
 
 <a name="3DGS"></a>
-
 ## 3D Presentation(GS, NeRF)
 
 **HybridNeRF: Efficient Neural Rendering via Adaptive Volumetric Surfaces**
@@ -62,7 +64,13 @@
 - Homepage : https://city-super.github.io/scaffold-gs/
 - Paper: https://arxiv.org/abs/2312.00109
 
+<a name="D"></a>
+## Diffusion
+**DistriFusion: Distributed Parallel Inference for High-Resolution Diffusion Models**
+- Homepage : https://migcproject.github.io/
+- Paper : https://arxiv.org/abs/2402.19481
 
+<a name="3DG"></a>
 ## 3D Generation
 **RichDreamer: A Generalizable Normal-Depth Diffusion Model for Detail Richness in Text-to-3D**
 - Homepage : https://aigc3d.github.io/richdreamer/
@@ -77,6 +85,12 @@
 **PhysGaussian: Physics-Integrated 3D Gaussians for Generative Dynamics**
 - Homepage : https://xpandora.github.io/PhysGaussian/
 - Paper : https://arxiv.org/abs/2311.12198
+
+<a name="2DG"></a>
+## 2D Generation
+**MIGC: Multi-Instance Generation Controller for Text-to-Image Synthesis**
+- Homepage : https://migcproject.github.io/
+- Paper : https://arxiv.org/pdf/2402.05408
 
 <a name="DH"></a>
 ## Digital Human
@@ -94,6 +108,13 @@
 - Homepage : https://zju3dv.github.io/relightable_avatar/
 - Paper : https://arxiv.org/abs/2308.07903
 - Description : Method
+
+**HumanGaussian: Text-Driven 3D Human Generation with Gaussian Splatting**
+- Homepage : https://alvinliu0.github.io/projects/HumanGaussian
+- Paper : https://arxiv.org/abs/2311.17061
+
+**GaussianAvatars: Photorealistic Head Avatars with Rigged 3D Gaussians**
+- Homepage : https://github.com/ShenhanQian/GaussianAvatars
 
 <a name="HS"></a>
 ## Human-Scene
@@ -113,6 +134,9 @@
 - Homepage : https://github.com/shikiw/OPERA
 - Paper : https://arxiv.org/abs/2311.17911
 - Description : Method
+
+**Monkey: Image Resolution and Text Label Are Important Things for Large Multi-modal Models**
+- Paper : https://arxiv.org/abs/2311.06607
 
 <a name="Video"></a>
 
@@ -171,6 +195,14 @@
 - Homepage : https://nvlabs.github.io/FoundationPose/
 - Paper : https://arxiv.org/abs/2312.08344
 
+
+<a name="AD"></a>
+
+## Autonomous Driving
+
+**Visual Point Cloud Forecasting enables Scalable Autonomous Driving**
+- Paper : https://arxiv.org/abs/2312.17655
+
 <a name="SLAM"></a>
 
 ## SLAM
@@ -178,6 +210,12 @@
 - Homepage : https://rmurai.co.uk/projects/GaussianSplattingSLAM/
 - Paper : https://arxiv.org/abs/2312.06741
 - Description : Method
+
+## SFM
+**VGGSfM: Visual Geometry Grounded Deep Structure From Motion**
+- Homepage : https://vggsfm.github.io/
+- Paper : https://arxiv.org/abs/2312.04563
+
 
 <a name="ML"></a>
 **Logit Standardization in Knowledge Distillation**
