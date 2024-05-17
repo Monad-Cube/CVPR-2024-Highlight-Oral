@@ -32,6 +32,8 @@
 # CVPR-2024-Highlight
 - [3DGS](#3DGS)
 - [Diffusion](#D)
+- [Presentation](#P)
+- [LLM](#LLM)
 - [3D Generation](#3DG)
 - [2D Generation](#2DG)
 - [Digital Human](#DH)
@@ -64,11 +66,25 @@
 - Homepage : https://city-super.github.io/scaffold-gs/
 - Paper: https://arxiv.org/abs/2312.00109
 
+**Supercharging 3D Gaussian Splatting to Enable Distilled Feature Fields**
+- Homepage : https://feature-3dgs.github.io/
+- Paper : https://arxiv.org/abs/2312.03203
+
 <a name="D"></a>
 ## Diffusion
 **DistriFusion: Distributed Parallel Inference for High-Resolution Diffusion Models**
 - Homepage : https://migcproject.github.io/
 - Paper : https://arxiv.org/abs/2402.19481
+
+<a name="P"></a>
+## Presentation
+**Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding**
+- Paper : https://arxiv.org/abs/2311.08046
+
+<a name="LLM"></a>
+## LLM
+**VCD: Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding**
+- Paper : https://arxiv.org/abs/2311.16922
 
 <a name="3DG"></a>
 ## 3D Generation
@@ -86,11 +102,17 @@
 - Homepage : https://xpandora.github.io/PhysGaussian/
 - Paper : https://arxiv.org/abs/2311.12198
 
+**SceneTex: High-Quality Texture Synthesis for Indoor Scenes via Diffusion Priors**
+- Homepage : https://daveredrum.github.io/SceneTex/
+- Paper : https://arxiv.org/abs/2311.17261
+
 <a name="2DG"></a>
 ## 2D Generation
 **MIGC: Multi-Instance Generation Controller for Text-to-Image Synthesis**
 - Homepage : https://migcproject.github.io/
 - Paper : https://arxiv.org/pdf/2402.05408
+
+
 
 <a name="DH"></a>
 ## Digital Human
@@ -115,6 +137,10 @@
 
 **GaussianAvatars: Photorealistic Head Avatars with Rigged 3D Gaussians**
 - Homepage : https://github.com/ShenhanQian/GaussianAvatars
+
+**Generalizable Pixel-wise 3D Gaussian Splatting for Real-time Human Novel View Synthesis**
+- Homepage : https://shunyuanzheng.github.io/GPS-Gaussian
+- Paper : https://arxiv.org/pdf/2312.02155
 
 <a name="HS"></a>
 ## Human-Scene
@@ -164,12 +190,19 @@
 - Homepage : https://hkchengrex.com/Cutie/
 - Paper : https://arxiv.org/abs/2310.12982
 
+**Enhancing Video Super-Resolution via Implicit Resampling-based Alignment**
+- Paper : https://arxiv.org/abs/2305.00163
+
 <a name="Image"></a>
 ## Image
 **ImageNet-D: Benchmarking Neural Network Robustness on Diffusion Synthetic Object**
 - Homepage : https://chenshuang-zhang.github.io/imagenet_d/
 - Paper : https://arxiv.org/abs/2403.18775
 - Description : Benchmark Dataset
+
+**SmartEdit: Exploring Complex Instruction-based Image Editing with Multimodal Large Language Models**
+- Homepage : https://yuzhou914.github.io/SmartEdit/
+- Paper : https://arxiv.org/abs/2312.06739
 
 <a name="Re"></a>
 ## Reconstruction
@@ -202,6 +235,9 @@
 
 **Visual Point Cloud Forecasting enables Scalable Autonomous Driving**
 - Paper : https://arxiv.org/abs/2312.17655
+
+**Generalized Predictive Model for Autonomous Driving**
+- Paper : https://arxiv.org/abs/2403.09630
 
 <a name="SLAM"></a>
 
