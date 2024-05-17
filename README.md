@@ -73,6 +73,11 @@ Geometry
 - Paper : https://arxiv.org/abs/2403.08629
 - Description : Dataset
 
+**Move as You Say, Interact as You Can: Language-guided Human Motion Generation with Scene Affordance**
+- Homepage : https://afford-motion.github.io/
+- Paper : https://arxiv.org/abs/2403.18036
+- Description : 
+
 <a name="MM"></a>
 # Multi-Modal
 **OPERA: Alleviating Hallucination in Multi-Modal Large Language Models via Over-Trust Penalty and Retrospection-Allocation**
