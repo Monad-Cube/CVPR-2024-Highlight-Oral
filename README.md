@@ -1,13 +1,32 @@
 # CVPR-2024-Oral
-Geometry
+## Geometry
 **Rethinking Inductive Biases for Surface Normal Estimation**
 - Homepage : https://baegwangbin.github.io/DSINE/
 - Paper : https://arxiv.org/abs/2403.00712
 - Description : Method Theory
 
+## Scene Understanding
 **PaSCo: Urban 3D Panoptic Scene Completion with Uncertainty Awareness**
 - Homepage : https://astra-vision.github.io/PaSCo/
 - Paper : https://arxiv.org/abs/2312.02158
+- Description : Method
+
+## Embodied AI
+**Ego-Exo4D: Understanding Skilled Human Activity from First- and Third-Person Perspectives**
+- Homepage :
+- Paper :
+- Description :
+
+## Multi-Modal
+**Modeling Multimodal Social Interactions: New Challenges and Baselines with Densely Aligned Representations**
+- Homepage :
+- Paper :
+- Descritpion :
+
+## Video
+**FMA-Net: Flow-Guided Dynamic Filtering and Iterative Feature Refinement with Multi-Attention for Joint Video Super-Resolution and Deblurring**
+- Homepage : https://kaist-viclab.github.io/fmanet-site/
+- Paper : https://arxiv.org/abs/2401.03707
 - Description : Method
 
 # CVPR-2024-Highlight
@@ -98,6 +117,11 @@ Geometry
 - Paper : https://arxiv.org/abs/2312.06640
 - Description : Method
 
+**RAVE: Randomized Noise Shuffling for Fast and Consistent Video Editing with Diffusion Models**
+- Homepage :
+- Paper :
+- Description : 
+
 <a name="Image"></a>
 # Image
 **ImageNet-D: Benchmarking Neural Network Robustness on Diffusion Synthetic Object**
@@ -110,6 +134,11 @@ Geometry
 **IPoD: Implicit Field Learning with Point Diffusion for Generalizable 3D Object Reconstruction from Single RGB-D Images**
 - Homepage : https://yushuang-wu.github.io/IPoD/
 - Paper : https://arxiv.org/abs/2404.00269
+- Description : Method
+
+**Gaussian-Flow: 4D Reconstruction with Dynamic 3D Gaussian Particle**
+- Homepage : https://nju-3dv.github.io/projects/Gaussian-Flow/
+- Paper : https://arxiv.org/abs/2312.03431
 - Description : Method
 
 <a name="EAI"></a>
