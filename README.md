@@ -39,6 +39,7 @@
 - [Image](#Image)
 - [Reconstruction](#Re)
 - [Embodied AI](#EAI)
+- [Pose Estimation](#PE)
 - [SLAM](#SLAM)
 - [Machine Learning](#ML)
 
@@ -57,6 +58,11 @@
 - Paper : https://arxiv.org/abs/2404.14044v1
 - Description : Method Theory
 
+**Scaffold-GS: Structured 3D Gaussians for View-Adaptive Rendering**
+- Homepage : https://city-super.github.io/scaffold-gs/
+- Paper: https://arxiv.org/abs/2312.00109
+
+
 ## 3D Generation
 **RichDreamer: A Generalizable Normal-Depth Diffusion Model for Detail Richness in Text-to-3D**
 - Homepage : https://aigc3d.github.io/richdreamer/
@@ -67,6 +73,10 @@
 - Homepage : https://nihalsid.github.io/mesh-gpt/
 - Paper : https://arxiv.org/abs/2311.15475
 - Description : Method, Mesh Generation 
+
+**PhysGaussian: Physics-Integrated 3D Gaussians for Generative Dynamics**
+- Homepage : https://xpandora.github.io/PhysGaussian/
+- Paper : https://arxiv.org/abs/2311.12198
 
 <a name="DH"></a>
 ## Digital Human
@@ -120,7 +130,15 @@
 **RAVE: Randomized Noise Shuffling for Fast and Consistent Video Editing with Diffusion Models**
 - Homepage :
 - Paper :
-- Description : 
+- Description :
+
+**CoDeF: Content Deformation Fields for Temporally Consistent Video Processing**
+- Homepage : https://qiuyu96.github.io/CoDeF/
+- Paper : https://arxiv.org/abs/2308.07926
+
+**Putting the Object Back into Video Object Segmentation**
+- Homepage : https://hkchengrex.com/Cutie/
+- Paper : https://arxiv.org/abs/2310.12982
 
 <a name="Image"></a>
 ## Image
@@ -147,6 +165,11 @@
 - Homepage : https://physcene.github.io/
 - Paper : https://arxiv.org/abs/2404.09465.pdf
 - Description : Method
+
+## Pose Estimation
+**FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects**
+- Homepage : https://nvlabs.github.io/FoundationPose/
+- Paper : https://arxiv.org/abs/2312.08344
 
 <a name="SLAM"></a>
 
