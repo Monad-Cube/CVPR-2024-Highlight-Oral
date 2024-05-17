@@ -1,4 +1,4 @@
-# CVPR-2024-Oral
+![image](https://github.com/Monad-Cube/CVPR-2024-Highlight-Oral/assets/59080745/c05f5619-8fe1-4632-930b-045ccb3855a3)# CVPR-2024-Oral
 Geometry
 **Rethinking Inductive Biases for Surface Normal Estimation**
 - Homepage : https://baegwangbin.github.io/DSINE/
@@ -15,6 +15,7 @@ Geometry
 - [3D Generation](#3DG)
 - [Digital Human](#DH)
 - [Human-Scene](#HS)
+- [Multi-Modal](#MM)
 - [Video](#Video)
 - [Image](#Image)
 - [Reconstruction](#Re)
@@ -72,6 +73,12 @@ Geometry
 - Paper : https://arxiv.org/abs/2403.08629
 - Description : Dataset
 
+<a name="MM"></a>
+# Multi-Modal
+**OPERA: Alleviating Hallucination in Multi-Modal Large Language Models via Over-Trust Penalty and Retrospection-Allocation**
+- Homepage : https://github.com/shikiw/OPERA
+- Paper : https://arxiv.org/abs/2311.17911
+- Description : Method
 
 <a name="Video"></a>
 
