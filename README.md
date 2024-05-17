@@ -1,4 +1,4 @@
-![image](https://github.com/Monad-Cube/CVPR-2024-Highlight-Oral/assets/59080745/c05f5619-8fe1-4632-930b-045ccb3855a3)# CVPR-2024-Oral
+# CVPR-2024-Oral
 Geometry
 **Rethinking Inductive Biases for Surface Normal Estimation**
 - Homepage : https://baegwangbin.github.io/DSINE/
