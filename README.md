@@ -42,10 +42,12 @@
 - [Video](#Video)
 - [Image](#Image)
 - [Reconstruction](#Re)
+- [Segmentation](#S)
 - [Embodied AI](#EAI)
 - [Pose Estimation](#PE)
 - [Autonomous Driving](#AD)
 - [SLAM](#SLAM)
+- [Medical Image Analysis](#MIA)
 - [Machine Learning](#ML)
 
 <a name="3DGS"></a>
@@ -121,6 +123,10 @@
 - Paper : https://arxiv.org/abs/2404.18630
 - Description : Dataset
 
+**SIFU: Side-view Conditioned Implicit Function for Real-world Usable Clothed Human Reconstruction**
+- Homepage : https://river-zhang.github.io/SIFU-projectpage/
+- Paper : https://arxiv.org/abs/2312.06704
+
 **3D Human Pose Perception from Egocentric Stereo Videos**
 - Homepage : https://4dqv.mpi-inf.mpg.de/UnrealEgo2/
 - Paper : https://arxiv.org/abs/2401.00889
@@ -129,7 +135,6 @@
 **Relightable and Animatable Neural Avatar from Sparse-View Video**
 - Homepage : https://zju3dv.github.io/relightable_avatar/
 - Paper : https://arxiv.org/abs/2308.07903
-- Description : Method
 
 **HumanGaussian: Text-Driven 3D Human Generation with Gaussian Splatting**
 - Homepage : https://alvinliu0.github.io/projects/HumanGaussian
@@ -161,8 +166,14 @@
 - Paper : https://arxiv.org/abs/2311.17911
 - Description : Method
 
+**Prompt Highlighter: Interactive Control for Multi-Modal LLMs**
+- Homepage : https://julianjuaner.github.io/projects/PromptHighlighter/
+- Paper : https://arxiv.org/abs/2312.04302
+
 **Monkey: Image Resolution and Text Label Are Important Things for Large Multi-modal Models**
 - Paper : https://arxiv.org/abs/2311.06607
+
+
 
 <a name="Video"></a>
 
@@ -170,17 +181,14 @@
 **SpatialTracker: Tracking Any 2D Pixels in 3D Space**
 - Homepage : https://henry123-boy.github.io/SpaTracker/
 - Paper : https://arxiv.org/abs/2404.04319
-- Description : Method
 
 **Upscale-A-Video: Temporal-Consistent Diffusion Model for Real-World Video Super-Resolution**
 - Homepage : https://shangchenzhou.com/projects/upscale-a-video/
 - Paper : https://arxiv.org/abs/2312.06640
-- Description : Method
 
 **RAVE: Randomized Noise Shuffling for Fast and Consistent Video Editing with Diffusion Models**
-- Homepage :
-- Paper :
-- Description :
+- Homepage : https://rave-video.github.io/
+- Paper : https://arxiv.org/abs/2312.04524
 
 **CoDeF: Content Deformation Fields for Temporally Consistent Video Processing**
 - Homepage : https://qiuyu96.github.io/CoDeF/
@@ -193,6 +201,9 @@
 **Enhancing Video Super-Resolution via Implicit Resampling-based Alignment**
 - Paper : https://arxiv.org/abs/2305.00163
 
+**VTimeLLM: Empower LLM to Grasp Video Moments**
+- Homepage : https://arxiv.org/abs/2311.18445
+
 <a name="Image"></a>
 ## Image
 **ImageNet-D: Benchmarking Neural Network Robustness on Diffusion Synthetic Object**
@@ -204,17 +215,24 @@
 - Homepage : https://yuzhou914.github.io/SmartEdit/
 - Paper : https://arxiv.org/abs/2312.06739
 
+**Coarse-to-Fine Latent Diffusion for Pose-Guided Person Image Synthesis**
+- Paper : https://arxiv.org/abs/2402.18078
+
 <a name="Re"></a>
 ## Reconstruction
 **IPoD: Implicit Field Learning with Point Diffusion for Generalizable 3D Object Reconstruction from Single RGB-D Images**
 - Homepage : https://yushuang-wu.github.io/IPoD/
 - Paper : https://arxiv.org/abs/2404.00269
-- Description : Method
 
 **Gaussian-Flow: 4D Reconstruction with Dynamic 3D Gaussian Particle**
 - Homepage : https://nju-3dv.github.io/projects/Gaussian-Flow/
 - Paper : https://arxiv.org/abs/2312.03431
-- Description : Method
+
+<a name="S"></a>
+## Segmentation
+
+**Frequency-Adaptive Dilated Convolution for Semantic Segmentation**
+- Paper : https://arxiv.org/abs/2403.05369
 
 <a name="EAI"></a>
 ## Embodied AI
@@ -252,18 +270,28 @@
 - Homepage : https://vggsfm.github.io/
 - Paper : https://arxiv.org/abs/2312.04563
 
+## Camera Pose
+**Map-Relative Pose Regression for Visual Re-Localization**
+- Homepage : https://nianticlabs.github.io/marepo/
+- Paper : https://arxiv.org/abs/2404.09884
+
+**FAR: Flexible, Accurate and Robust 6DoF Relative Camera Pose Estimation**
+- Paper : https://arxiv.org/abs/2311.17597
+
+
+<a name="MIA"></a>
+**Continual Self-supervised Learning: Towards Universal Multi-modal Medical Data Representation Learning**
+- Paper : https://arxiv.org/abs/2311.17597
 
 <a name="ML"></a>
 **Logit Standardization in Knowledge Distillation**
 - Homepage : https://sunsean21.github.io/logit-stand-KD.html
 - Paper : https://arxiv.org/abs/2403.01427
-- Description : Method Theory
 
 # Feature Matching
 **Efficient LoFTR: Semi-Dense Local Feature Matching with Sparse-Like Speed**
 - Homepage : https://zju3dv.github.io/efficientloftr/
 - Paper : https://zju3dv.github.io/efficientloftr/files/EfficientLoFTR.pdf
-- Description : Method
 
 
 
