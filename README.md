@@ -126,6 +126,8 @@
 - Homepage : https://migcproject.github.io/
 - Paper : https://arxiv.org/pdf/2402.05408
 
+**OpenBias: Open-set Bias Detection in Text-to-Image Generative Models**
+- Paper : https://arxiv.org/abs/2404.07990
 
 
 <a name="DH"></a>
@@ -216,6 +218,9 @@
 **Putting the Object Back into Video Object Segmentation**
 - Homepage : https://hkchengrex.com/Cutie/
 - Paper : https://arxiv.org/abs/2310.12982
+
+**Boosting Neural Representations for Videos with a Conditional Decoder**
+- Paper : https://arxiv.org/abs/2402.18152
 
 **Enhancing Video Super-Resolution via Implicit Resampling-based Alignment**
 - Paper : https://arxiv.org/abs/2305.00163
