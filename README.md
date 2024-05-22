@@ -41,6 +41,7 @@
 - [Multi-Modal](#MM)
 - [Video](#Video)
 - [Image](#Image)
+- [Novel View Synthesis](#NVS)
 - [Reconstruction](#Re)
 - [Segmentation](#S)
 - [Embodied AI](#EAI)
@@ -49,6 +50,8 @@
 - [SLAM](#SLAM)
 - [Medical Image Analysis](#MIA)
 - [Machine Learning](#ML)
+- [Robotic Manipulation](#RM)
+- [Others](#Others)
 
 <a name="3DGS"></a>
 ## 3D Presentation(GS, NeRF)
@@ -77,6 +80,15 @@
 **DistriFusion: Distributed Parallel Inference for High-Resolution Diffusion Models**
 - Homepage : https://migcproject.github.io/
 - Paper : https://arxiv.org/abs/2402.19481
+
+**Style Injection in Diffusion: A Training-free Approach for Adapting Large-scale Diffusion Models for Style Transfer**
+- Homepage : https://jiwoogit.github.io/StyleID_site/
+- Paper : https://arxiv.org/abs/2312.09008
+
+**TFMQ-DM: Temporal Feature Maintenance Quantization for Diffusion Models**
+- Paper : https://arxiv.org/abs/2311.16503
+
+
 
 <a name="P"></a>
 ## Presentation
@@ -177,7 +189,11 @@
 
 <a name="Video"></a>
 
-## Video Understanding
+## Video
+**3DGStream: On-the-Fly Training of 3D Gaussians for Efficient Streaming of Photo-Realistic Free-Viewpoint Videos**
+- Homepage : https://sjojok.github.io/3dgstream/
+- Paper : https://arxiv.org/abs/2403.01444
+
 **SpatialTracker: Tracking Any 2D Pixels in 3D Space**
 - Homepage : https://henry123-boy.github.io/SpaTracker/
 - Paper : https://arxiv.org/abs/2404.04319
@@ -218,6 +234,13 @@
 **Coarse-to-Fine Latent Diffusion for Pose-Guided Person Image Synthesis**
 - Paper : https://arxiv.org/abs/2402.18078
 
+<a name="NVS"></a>
+## Novel View Synthesis
+**CoPoNeRF: Unifying Correspondence, Pose and NeRF for Pose-Free Novel View Synthesis from Stereo Pairs**
+- Homepage : https://ku-cvlab.github.io/CoPoNeRF/
+- Paper : https://arxiv.org/abs/2312.07246
+
+
 <a name="Re"></a>
 ## Reconstruction
 **IPoD: Implicit Field Learning with Point Diffusion for Generalizable 3D Object Reconstruction from Single RGB-D Images**
@@ -228,11 +251,21 @@
 - Homepage : https://nju-3dv.github.io/projects/Gaussian-Flow/
 - Paper : https://arxiv.org/abs/2312.03431
 
+**Living Scenes: Multi-object Relocalization and Reconstruction in Changing 3D Environments**
+- Homepage : https://www.zhuliyuan.net/livingscenes
+- Paper : https://arxiv.org/abs/2312.09138
+
 <a name="S"></a>
 ## Segmentation
+**EAGLE: Eigen Aggregation Learning for Object-Centric Unsupervised Semantic Segmentation**
+- Homepage : https://micv-yonsei.github.io/eagle2024/
+- Paper : https://arxiv.org/abs/2403.01482
 
 **Frequency-Adaptive Dilated Convolution for Semantic Segmentation**
 - Paper : https://arxiv.org/abs/2403.05369
+
+**SPOT: Self-Training with Patch-Order Permutation for Object-Centric Learning with Autoregressive Transformers**
+- Paper : https://arxiv.org/abs/2312.00648
 
 <a name="EAI"></a>
 ## Embodied AI
@@ -280,18 +313,34 @@
 
 
 <a name="MIA"></a>
+## Medical Image Analysis
 **Continual Self-supervised Learning: Towards Universal Multi-modal Medical Data Representation Learning**
 - Paper : https://arxiv.org/abs/2311.17597
 
+**Diversified and Personalized Multi-rater Medical Image Segmentation**
+- Paper : https://arxiv.org/abs/2403.13417
+
+<a name="RM"></a>
+## Robotic Manipulation
+**Diffusion-EDFs: Bi-equivariant Denoising Generative Modeling on SE(3) for Visual Robotic Manipulation**
+- Homepage : https://sites.google.com/view/diffusion-edfs
+- Paper : https://arxiv.org/abs/2309.02685
+
+
 <a name="ML"></a>
+## Knowledge Distillation
 **Logit Standardization in Knowledge Distillation**
 - Homepage : https://sunsean21.github.io/logit-stand-KD.html
 - Paper : https://arxiv.org/abs/2403.01427
 
-# Feature Matching
+<a name="Others"></a>
+## Feature Matching
 **Efficient LoFTR: Semi-Dense Local Feature Matching with Sparse-Like Speed**
 - Homepage : https://zju3dv.github.io/efficientloftr/
 - Paper : https://zju3dv.github.io/efficientloftr/files/EfficientLoFTR.pdf
 
-
+## Brain Decoding
+**https://littlepure2333.github.io/MindBridge/**
+- Homepage : https://littlepure2333.github.io/MindBridge/
+- Paper : https://arxiv.org/abs/2404.07850
 
