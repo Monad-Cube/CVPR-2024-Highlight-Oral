@@ -182,6 +182,9 @@
 - Homepage : https://julianjuaner.github.io/projects/PromptHighlighter/
 - Paper : https://arxiv.org/abs/2312.04302
 
+**Cooperation Does Matter: Exploring Multi-Order Bilateral Relations for Audio-Visual Segmentation**
+- Paper: https://arxiv.org/pdf/2312.06462
+
 **Monkey: Image Resolution and Text Label Are Important Things for Large Multi-modal Models**
 - Paper : https://arxiv.org/abs/2311.06607
 
@@ -220,6 +223,9 @@
 **VTimeLLM: Empower LLM to Grasp Video Moments**
 - Homepage : https://arxiv.org/abs/2311.18445
 
+**Bridging the Gap: A Unified Video Comprehension Framework for Moment Retrieval and Highlight Detection**
+- Paper : https://arxiv.org/abs/2311.16464
+
 <a name="Image"></a>
 ## Image
 **ImageNet-D: Benchmarking Neural Network Robustness on Diffusion Synthetic Object**
@@ -240,6 +246,8 @@
 - Homepage : https://ku-cvlab.github.io/CoPoNeRF/
 - Paper : https://arxiv.org/abs/2312.07246
 
+**SCINeRF: Neural Radiance Fields from a Snapshot Compressive Image**
+- Paper : https://arxiv.org/abs/2403.20018
 
 <a name="Re"></a>
 ## Reconstruction
@@ -255,11 +263,22 @@
 - Homepage : https://www.zhuliyuan.net/livingscenes
 - Paper : https://arxiv.org/abs/2312.09138
 
+**HOLD: Category-agnostic 3D Reconstruction of Interacting Hands and Objects from Video**
+- Homepage : https://zc-alexfan.github.io/hold
+- Paper : https://arxiv.org/abs/2311.18448
+
 <a name="S"></a>
 ## Segmentation
 **EAGLE: Eigen Aggregation Learning for Object-Centric Unsupervised Semantic Segmentation**
 - Homepage : https://micv-yonsei.github.io/eagle2024/
 - Paper : https://arxiv.org/abs/2403.01482
+
+**GraCo: Granularity-Controllable Interactive Segmentation**
+- Homepage : https://zhao-yian.github.io/GraCo/
+- Paper : https://arxiv.org/abs/2405.00587
+
+**OpenESS: Event-Based Semantic Scene Understanding with Open Vocabularies**
+- Paper : https://arxiv.org/abs/2405.05259
 
 **Frequency-Adaptive Dilated Convolution for Semantic Segmentation**
 - Paper : https://arxiv.org/abs/2403.05369
@@ -289,6 +308,9 @@
 
 **Generalized Predictive Model for Autonomous Driving**
 - Paper : https://arxiv.org/abs/2403.09630
+
+**Dynamic LiDAR Re-simulation using Compositional Neural Fields**
+- Paper : https://arxiv.org/abs/2312.05247
 
 <a name="SLAM"></a>
 
@@ -338,6 +360,10 @@
 **Efficient LoFTR: Semi-Dense Local Feature Matching with Sparse-Like Speed**
 - Homepage : https://zju3dv.github.io/efficientloftr/
 - Paper : https://zju3dv.github.io/efficientloftr/files/EfficientLoFTR.pdf
+
+## Stereo Matching
+**Selective-Stereo: Adaptive Frequency Information Selection for Stereo Matching**
+- Paper : https://arxiv.org/abs/2403.00486
 
 ## Brain Decoding
 **https://littlepure2333.github.io/MindBridge/**
