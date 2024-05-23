@@ -3,25 +3,27 @@
 **Rethinking Inductive Biases for Surface Normal Estimation**
 - Homepage : https://baegwangbin.github.io/DSINE/
 - Paper : https://arxiv.org/abs/2403.00712
-- Description : Method Theory
 
 ## Scene Understanding
 **PaSCo: Urban 3D Panoptic Scene Completion with Uncertainty Awareness**
 - Homepage : https://astra-vision.github.io/PaSCo/
 - Paper : https://arxiv.org/abs/2312.02158
-- Description : Method
+
+## Reconstruction
+**pixelSplat: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction**
+- Homepage : https://davidcharatan.com/pixelsplat/
+- Paper : https://arxiv.org/abs/2312.12337
 
 ## Embodied AI
 **Ego-Exo4D: Understanding Skilled Human Activity from First- and Third-Person Perspectives**
-- Homepage :
-- Paper :
-- Description :
+- Homepage : https://ego-exo4d-data.org/
+- Paper : https://arxiv.org/abs/2311.18259
+- Description : Dataset, Benchmark
 
 ## Multi-Modal
 **Modeling Multimodal Social Interactions: New Challenges and Baselines with Densely Aligned Representations**
-- Homepage :
-- Paper :
-- Descritpion :
+- Paper : https://arxiv.org/abs/2403.02090
+- Descritpion : Baseline
 
 ## Video
 **FMA-Net: Flow-Guided Dynamic Filtering and Iterative Feature Refinement with Multi-Attention for Joint Video Super-Resolution and Deblurring**
@@ -371,7 +373,7 @@
 - Paper : https://arxiv.org/abs/2403.00486
 
 ## Brain Decoding
-**https://littlepure2333.github.io/MindBridge/**
+**MindBridge: A Cross-Subject Brain Decoding Framework**
 - Homepage : https://littlepure2333.github.io/MindBridge/
 - Paper : https://arxiv.org/abs/2404.07850
 
