@@ -9,6 +9,11 @@
 - Homepage : https://astra-vision.github.io/PaSCo/
 - Paper : https://arxiv.org/abs/2312.02158
 
+**SceneFun3D: Fine-Grained Functionality and Affordance Understanding in 3D Scenes**
+- Homepage : https://scenefun3d.github.io/
+- Paper : https://alexdelitzas.github.io/assets/pdf/SceneFun3D.pdf
+
+
 ## Reconstruction
 **pixelSplat: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction**
 - Homepage : https://davidcharatan.com/pixelsplat/
